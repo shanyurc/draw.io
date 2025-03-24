@@ -25,7 +25,7 @@
           <mxGeometry x="300" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H7Hj94CXA3mKFmwpcMTP-4" value="保存答案 ，回填原数据id是自己" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H7Hj94CXA3mKFmwpcMTP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7Hj94CXA3mKFmwpcMTP-6" target="H7Hj94CXA3mKFmwpcMTP-8">
           <mxGeometry relative="1" as="geometry" />
@@ -37,10 +37,69 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H7Hj94CXA3mKFmwpcMTP-8" value="表里没有原数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H7Hj94CXA3mKFmwpcMTP-10" value="新增两份答案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7Hj94CXA3mKFmwpcMTP-12" target="H7Hj94CXA3mKFmwpcMTP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7Hj94CXA3mKFmwpcMTP-12" target="H7Hj94CXA3mKFmwpcMTP-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="390" />
+              <mxPoint x="290" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-12" value="第二次回填" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7Hj94CXA3mKFmwpcMTP-13" target="H7Hj94CXA3mKFmwpcMTP-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-13" value="不编辑" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;jumpStyle=arc;" edge="1" parent="1" source="H7Hj94CXA3mKFmwpcMTP-15" target="H7Hj94CXA3mKFmwpcMTP-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-15" value="之前的回填数据失效" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H7Hj94CXA3mKFmwpcMTP-18" target="H7Hj94CXA3mKFmwpcMTP-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-18" value="编辑" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7Hj94CXA3mKFmwpcMTP-21" target="H7Hj94CXA3mKFmwpcMTP-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-21" value="每次回填上次的原数据失效" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="584.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H7Hj94CXA3mKFmwpcMTP-22" target="H7Hj94CXA3mKFmwpcMTP-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-22" value="每次回填表单实例版本变化 id不变" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7Hj94CXA3mKFmwpcMTP-23" target="H7Hj94CXA3mKFmwpcMTP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-23" value="使用id +版本查询答案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H7Hj94CXA3mKFmwpcMTP-25" value="根据答案原数据di查询回填数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
