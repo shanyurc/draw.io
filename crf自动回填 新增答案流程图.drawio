@@ -80,22 +80,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H7Hj94CXA3mKFmwpcMTP-21" value="每次回填上次的原数据失效" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="580" width="120" height="65" as="geometry" />
+          <mxGeometry x="100" y="760" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="H7Hj94CXA3mKFmwpcMTP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="H7Hj94CXA3mKFmwpcMTP-22" target="H7Hj94CXA3mKFmwpcMTP-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H7Hj94CXA3mKFmwpcMTP-22" value="每次回填表单实例版本变化 id不变" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H7Hj94CXA3mKFmwpcMTP-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H7Hj94CXA3mKFmwpcMTP-23" target="H7Hj94CXA3mKFmwpcMTP-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H7Hj94CXA3mKFmwpcMTP-23" value="使用id +版本查询答案" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="765" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H7Hj94CXA3mKFmwpcMTP-25" value="根据答案原数据di查询回填数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="765" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rsq1oJ8PJQARHhWjuVlB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rsq1oJ8PJQARHhWjuVlB-3" target="rsq1oJ8PJQARHhWjuVlB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rsq1oJ8PJQARHhWjuVlB-3" value="第二次不回填 直接修改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rsq1oJ8PJQARHhWjuVlB-5" value="回填数据在上一个版本" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
